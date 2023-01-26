@@ -1,0 +1,8 @@
+C:\Users\herhe\source\repos\WordSpeedTest\bin\Debug\WordSpeedTest.exe.config
+C:\Users\herhe\source\repos\WordSpeedTest\bin\Debug\WordSpeedTest.exe
+C:\Users\herhe\source\repos\WordSpeedTest\bin\Debug\WordSpeedTest.pdb
+C:\Users\herhe\source\repos\WordSpeedTest\obj\Debug\WordSpeedTest.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\WordSpeedTest\obj\Debug\WordSpeedTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\WordSpeedTest\obj\Debug\WordSpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\WordSpeedTest\obj\Debug\WordSpeedTest.exe
+C:\Users\herhe\source\repos\WordSpeedTest\obj\Debug\WordSpeedTest.pdb
